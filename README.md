@@ -35,7 +35,7 @@ Resultado esperado:
 Se você chegou até aqui, parabéns! Já tens uma pipeline de CI/CD n Github Actions com dbt e Snowflake.
 
 ## Developer
-Código utilizado como rferência do Wallace Camargo, abaixo suas credenciais
+Código utilizado como referência do Wallace Camargo, abaixo suas credenciais:
 | Desenvolvedor      | LinkedIn                                   | Email                        | Portfólio                              |
 |--------------------|--------------------------------------------|------------------------------|----------------------------------------|
 | Wallace Camargo    | [LinkedIn](https://www.linkedin.com/in/wallace-camargo-35b615171/) | wallacecpdg@gmail.com        | [Portfólio](https://wlcamargo.github.io/)   |
